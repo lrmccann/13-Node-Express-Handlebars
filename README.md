@@ -1,0 +1,1 @@
+This application was built with MySQL, Node, Express, Handlebars and a homemade ORM. It follows the MVC structure and uses Node and MySql to query and route data to the application while also using Handlebars to generate the HTML. 
